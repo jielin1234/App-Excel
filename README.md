@@ -5,7 +5,7 @@ An app that would increase efficency, reduce the repetitive manual work and time
   Why ?<br>
 Having to message every user one by one is tedious and time consuming for the Ops. Ops will have to manually check through the excel, private message each of the user, then follow up frequently and perform the repetitive work until it is done.<br>
 For users, checking resource information require user to login to the cloud console and perform relevant action can be troublesome and hence delaying the response based on observation and feedback.<br>
-  ○ Common feedback from users<br>
+  ○ Common feedback from users:<br>
     ■ What are the ip of the machines<br>
     ■ Not aware that they are incharge of the 组件<br>
     ■ Owner had changed<br>
